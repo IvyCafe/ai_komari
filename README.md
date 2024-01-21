@@ -1,2 +1,2 @@
-# ai_komari
-AI of Komari.
+# AI of Komari
+- Komari AI for misskey bot
